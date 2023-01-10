@@ -55,7 +55,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Liam Graham"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "This website contains information about me, and projects I've completed."
   

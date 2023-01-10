@@ -59,6 +59,11 @@ author:
   bio    : "This website contains information about me, and projects I've completed."
   label: "Resume"
       url: file:///Users/liamgraham/Downloads/LG%20Resume.pdf
+      
+  footer:
+  links:
+  label: "Resume"
+      url: file:///Users/liamgraham/Downloads/LG%20Resume.pdf
   
 
 

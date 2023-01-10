@@ -1,9 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Economics Projects"
+  - title: "Projects"
     url: /projects/
-  - title: "Data Science Projects"
-    url: /projects2/
   - title: "Resume"
     url: /resume/

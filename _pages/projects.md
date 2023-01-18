@@ -7,10 +7,10 @@ This section contains some of the projects that I have completed for both Econom
 
 
 ---
+permalink: /projects/
 title: "Grades Project"
-tags:
-  - link
-  - Post Formats
+---
+
 link: file:///Users/liamgraham/Downloads/annotated-Project%25201%2520Graham.pdf
 ---
 

@@ -3,8 +3,11 @@ permalink: /projects/
 title: "My Projects"
 ---
 
-This section contains some of the projects that I have completed for both Economics and Data Science classes. The Economics projects were all completed using Microsoft Excel (most files also involve the use of VBA code), and the Data Statistics projects were completed using R-Studio (now known as Posit Cloud).
+This section contains some of the projects that I have completed for both Economics and Data Science classes. The Economics projects were all completed using Microsoft Excel (most files also involve the use of VBA code), and the Data Statistics projects were completed using R-Studio (now known as Posit Cloud). For any Excel file that asks you to "Enable Macros", this will allow you to run existing VBA code, so they should be enabled.
 
+---
+Data Statistics and Sciences
+---
 
 ---
 [Basketball Statistics Project](https://drive.google.com/file/d/1ffAv_a_6TVUbG3OznY4XwroJ41cmdiYp/view?usp=sharing)
@@ -17,4 +20,27 @@ This project concerns the correlation that both minutes-per-game and player posi
 ---
 
 This project concerns the effect that multiple variables, including temperature and month of the year, have on bike rentals from the years 2017-2020 for Capital Bikeshare Company, located in Washington D.C.. This project was also made through Posit Cloud. 
+
+---
+Economics
+---
+
+---
+[Grades Project](https://drive.google.com/file/d/1MmYgJpr5VRD5qXc9JuKB_S5wslc2MGQq/view?usp=sharing)
+---
+
+This project calculates GPA and makes a conclusion regarding a student’s acceptance into a graduate program. More details are provided in the file. (NOTE! This link will take you to a Google Drive file, where you will have to download this file to view it in Excel.)
+
+---
+[Student Groups Project](https://drive.google.com/file/d/1_JC4lwGF8phhDFaf0wDUCzEsbOPtxpQe/view?usp=share_link)
+---
+
+This project moves students into groups using VBA code, based on specific criteria that the code must follow. More details are provided in the file.(NOTE! This link will take you to a Google Drive file, where you will have to download this file to view.)
+
+---
+[Poem Groups Project](https://drive.google.com/file/d/1dMTVhzEuuH4ZZuYvBaRj-Dc3aE38B3JT/view?usp=share_link)
+---
+
+This project also moves students into groups using VBA code, but with much different criteria and a different method. More details are provided in the file.(NOTE! This link will take you to a Google Drive file, where you will have to download this file to view.)
+
 

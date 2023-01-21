@@ -6,6 +6,42 @@ title: "My Projects"
 This section contains some of the projects that I have completed for both Economics and Data Science classes. The Economics projects were all completed using Microsoft Excel (most files also involve the use of VBA code), and the Data Statistics projects were completed using R-Studio (now known as Posit Cloud). For any Excel file that asks you to "Enable Macros", this will allow you to run existing VBA code, so they should be enabled.
 
 ---
+Economics
+---
+
+(for each economics project, the link will take you to a Google Drive file, where you will have to download this file to view the project)
+
+---
+[VBA Graphs Project](https://drive.google.com/file/d/1vqvetoU8yjW_C4QV0917NqOT8yRN-JdN/view?usp=share_link)
+---
+
+This project uses VBA code to change multiple graphs to fit a specified set of rules. More details are provided in the file.
+
+---
+[Political Spending using Solver Project](https://drive.google.com/file/d/1DbFd5iKRY5DlNccf4FDE2VMEN1vQwWUB/view?usp=share_link)
+---
+
+This project uses the Solver tool in Excel to determine optimal political spending to bring in the most voters, based on specified constraints. More details are provided in the file.
+
+---
+[Grades Project](https://drive.google.com/file/d/1vfP-VENhmun9ulrinGmYoVKEVFMegfot/view?usp=share_link)
+---
+
+This project calculates GPA and makes a conclusion regarding a student’s acceptance into a graduate program. More details are provided in the file. 
+
+---
+[Student Groups Project](https://drive.google.com/file/d/1LlOTH0sYspJKYV5Wl5K88bEDuOSsyHA2/view?usp=share_link)
+---
+
+This project moves students into groups using VBA code, based on specific criteria that the code must follow. More details are provided in the file.
+
+---
+[Poem Groups Project](https://drive.google.com/file/d/1Q8Yk5f3OJMC6VPtnDXQ_18iYYuQXCTkj/view?usp=share_link)
+---
+
+This project also moves students into groups using VBA code, but with much different criteria and a different method. More details are provided in the file.
+
+---
 Data Statistics and Sciences
 ---
 
@@ -21,7 +57,5 @@ This project concerns the correlation that both minutes-per-game and player posi
 
 This project concerns the effect that multiple variables, including temperature and month of the year, have on bike rentals from the years 2017-2020 for Capital Bikeshare Company, located in Washington D.C.. This project was also made through Posit Cloud. 
 
----
-Economics
----
+
 

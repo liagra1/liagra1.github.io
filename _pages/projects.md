@@ -25,22 +25,3 @@ This project concerns the effect that multiple variables, including temperature 
 Economics
 ---
 
----
-[Grades Project](https://drive.google.com/file/d/1MmYgJpr5VRD5qXc9JuKB_S5wslc2MGQq/view?usp=sharing)
----
-
-This project calculates GPA and makes a conclusion regarding a student’s acceptance into a graduate program. More details are provided in the file. (NOTE! This link will take you to a Google Drive file, where you will have to download this file to view it in Excel.)
-
----
-[Student Groups Project](https://drive.google.com/file/d/1_JC4lwGF8phhDFaf0wDUCzEsbOPtxpQe/view?usp=share_link)
----
-
-This project moves students into groups using VBA code, based on specific criteria that the code must follow. More details are provided in the file.(NOTE! This link will take you to a Google Drive file, where you will have to download this file to view.)
-
----
-[Poem Groups Project](https://drive.google.com/file/d/1dMTVhzEuuH4ZZuYvBaRj-Dc3aE38B3JT/view?usp=share_link)
----
-
-This project also moves students into groups using VBA code, but with much different criteria and a different method. More details are provided in the file.(NOTE! This link will take you to a Google Drive file, where you will have to download this file to view.)
-
-

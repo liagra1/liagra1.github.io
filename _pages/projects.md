@@ -12,31 +12,31 @@ Economics
 (for each economics project, the link will take you to a Google Drive file, where you will have to download this file to view the project)
 
 ---
-[VBA Graphs Project](https://drive.google.com/file/d/1vqvetoU8yjW_C4QV0917NqOT8yRN-JdN/view?usp=share_link)
+[VBA Graphs Project](https://drive.google.com/file/d/1vHbmq058ORYQgMfa7JcMq8-90AnfUIAG/view?usp=share_link)
 ---
 
 This project uses VBA code to change multiple graphs to fit a specified set of rules. More details are provided in the file.
 
 ---
-[Political Spending using Solver Project](https://drive.google.com/file/d/1DbFd5iKRY5DlNccf4FDE2VMEN1vQwWUB/view?usp=share_link)
+[Political Spending using Solver Project](https://drive.google.com/file/d/1rOUbVZQX_WOLLZpp-GlEYnOkSj64N8ld/view?usp=share_link)
 ---
 
 This project uses the Solver tool in Excel to determine optimal political spending to bring in the most voters, based on specified constraints. More details are provided in the file.
 
 ---
-[Grades Project](https://drive.google.com/file/d/1vfP-VENhmun9ulrinGmYoVKEVFMegfot/view?usp=share_link)
+[Grades Project](https://drive.google.com/file/d/1gLKBVMJepE1OrPlEPVKAoEFJiR_YZKPt/view?usp=share_link)
 ---
 
 This project calculates GPA and makes a conclusion regarding a student’s acceptance into a graduate program. More details are provided in the file. 
 
 ---
-[Student Groups Project](https://drive.google.com/file/d/1LlOTH0sYspJKYV5Wl5K88bEDuOSsyHA2/view?usp=share_link)
+[Student Groups Project](https://drive.google.com/file/d/1HU-PhdK972a2Ve0bxfrc-RLVn70J58pi/view?usp=share_link)
 ---
 
 This project moves students into groups using VBA code, based on specific criteria that the code must follow. More details are provided in the file.
 
 ---
-[Poem Groups Project](https://drive.google.com/file/d/1Q8Yk5f3OJMC6VPtnDXQ_18iYYuQXCTkj/view?usp=share_link)
+[Poem Groups Project](https://drive.google.com/file/d/1zA_WyiLRTaMfo0H4BU5AYpJJE49vzJpA/view?usp=share_link)
 ---
 
 This project also moves students into groups using VBA code, but with much different criteria and a different method. More details are provided in the file.

@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG_2397.jpg"
   bio    : "This website contains information about me, and projects I've completed."
  
   

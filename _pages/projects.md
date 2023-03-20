@@ -57,5 +57,9 @@ This project concerns the correlation that both minutes-per-game and player posi
 
 This project concerns the effect that multiple variables, including temperature and month of the year, have on bike rentals from the years 2017-2020 for Capital Bikeshare Company, located in Washington D.C.. This project was also made through Posit Cloud. 
 
+---
+[IMDB Movies Project](https://drive.google.com/file/d/1qjaMRQLsm-rFbgd-JcxUpwYfc3hDQZ6X/view?usp=sharing)
+---
 
+This project predicts IMDB movie ratings based on a multitude of factors, including budget, box office, and production staff. The dataset contains the 250 top-rated movies on the IMDB website. This project was made with Posit Cloud.
 

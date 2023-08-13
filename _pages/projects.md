@@ -6,6 +6,14 @@ title: "My Projects"
 This section contains some of the projects that I have completed for both Economics and Data Science classes. The Economics projects were all completed using Microsoft Excel (most files also involve the use of VBA code), and the Data Statistics projects were completed using R-Studio (now known as Posit Cloud). For any Excel file that asks you to "Enable Macros", this will allow you to run existing VBA code, so they should be enabled.
 
 ---
+Business
+---
+[Halo Ball Business Analysis Independent Project (https://docs.google.com/presentation/d/1wKZJbL7Fo7YhpXULU58C24U0xWvke8rc3g6dj2_QtRQ/edit#slide=id.p)
+---
+
+This project serves as a business analysis independent project for the company Halo Ball, an outdoor sports company. It contains information regarding sales growth, marketing and website behavior data, and numerous improvement suggestions regarding increasing sales and brand awareness. For legal purposes, any financial information associated with this project has been removed.
+
+---
 Economics
 ---
 

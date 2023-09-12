@@ -59,9 +59,9 @@ author:
   bio    : "This website contains information about me, and projects I've completed."
 
 defaults:
-  # _pages
+  # _projects
   - scope:
-      path: "_pages"
+      path: "_projects"
       type: pages
     values:
       layout: single  # Set the default layout for pages in the "_pages" folder

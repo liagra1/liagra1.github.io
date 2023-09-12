@@ -1,3 +1,5 @@
+Old code
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -57,14 +59,29 @@ plugins:
 author:
   avatar : "/assets/images/IMG_2397.jpg"
   bio    : "This website contains information about me, and projects I've completed."
+ 
+  
+
+
 
 defaults:
-  # _projects
+  # _posts
   - scope:
-      path: "_projects"
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
       type: pages
     values:
-      layout: single  # Set the default layout for pages in the "_pages" folder
+      layout: single
       author_profile: true
 
 category_archive:
